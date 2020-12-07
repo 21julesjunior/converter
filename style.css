@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.container {
+    padding-top: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    b
+}
+
+.title {
+    text-align: center;
+    margin: 13px 0px;
+    font-size: 40px;
+    color: wheat;
+}
+
+span {
+    font-weight: bolder
+}
+
+.inrel {
+    display: ;
+}
+
+.selct {
+    margin-top: 20px;
+}
+
+.selct #inputType {
+    margin-right: 50px;
+    padding: 10px;
+}
+
+.selct #resultType {
+    margin-left: 50px;
+    padding: 10px;
+}
+
+input {
+    height: 25px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#input {
+    margin-left: 25px;
+}
+
+#inputType,
+#resultType {
+    margin-left: 25px;
+    color: rgb(224, 224, 224);
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(65, 65, 78);
+}
+
+#resultType {
+    margin-aleft: 12.5px;
+}
